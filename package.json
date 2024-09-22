@@ -1,0 +1,12 @@
+{
+    "name": "tally-app",
+    "version": "1.0.0",
+    "description": "Redux-inspired store for a tally app",
+    "main": "src/tallyApp.js",
+    "type": "module",
+    "scripts": {
+      "start": "node src/tallyApp.js"
+    },
+    "author": "Siraaj Isaacs",
+    "license": "ISC"
+  }
